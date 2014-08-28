@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "DevFest Norte 2014"
 email: "mfandrade@gmail.com"
 description: "DevFest Norte é o maior evento de tecnologias Google na região norte do Brasil."
-baseurl: "/2014"
+baseurl: "/site-devfestnorte"
 url: "http://norte.devfest.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
