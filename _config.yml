@@ -1,159 +1,148 @@
-# Build Settings
+# Building (não mexa a menox que saiba o que está fazendo)
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
-# Site Settings
+# Parâmetros do site
 title: "DevFest Norte 2014"
 email: "mfandrade@gmail.com"
-description: "DevFest é um conjunto de eventos dos GDGs ao redor do mundo"
-baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+description: "DevFest Norte é o maior evento de tecnologias Google na região norte do Brasil."
+baseurl: "/2014"
+url: "http://norte.devfest.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
-# Organizer Info
+# Informações dos organizadores
 organizerName: "GDG Belém"
 organizerAlternateName: "Google Developer Group Belém"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerDescription: "Comunidade aberta e voluntária que estuda, cria e dissemina tecnologias e desenvolvimento ágil em Belém do Pará."
+organizerEmail: "mfandrade@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://norte.devfest.com.br/"
 
-# Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+# Metadados para a página
+metaKeywords: "evento, gdg, devfest, norte, amazonia, brasil, google, programacao, android, chrome, desenvolvimento, trilha, mobile, web"
+twitterAccount: "@tasafo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
-c4pUrl: "http://call4paperz.com"
+# Documentos-chave
+c4pUrl: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
-# Navigation
+# Navegação
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {link: "https://developers.google.com", text: "Developers"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/logistics/", text: "Logística"}
+ - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Submeta sua palestra"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Submeta sua palestra"}
 
-# Hero Block
-heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+# Bloco "Hero"
+heroTitle: "GDG DevFest Norte 2014"
+eventDate: "1º de novembro de 2014" 
+typeoutTextValues: '"", "Belém", "Manaus", "São Luiz", "Norte", "Amazônia", "Brasil"'
+typeoutFallback: "Temporada"
 heroButtons:
- - {url: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {url: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Seja um palestrante"}
 
-# About Block
-aboutTitle: "About GDG DevFest"
+# Bloco "Sobre"
+aboutTitle: "Sobre o DevFest Norte"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferência", image: "conference.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luiz!  Temas interessantes, ótimos palestrantes e muita diversão!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Um dia inteiro de workshops, experiências mão-na-massa, hacking e aprendizado. Venha e domine as tecnologias que fazem a diferença no seu dia-a-dia." }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Uma verdadeira maratona de programação. Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Forme sua equipe e junte-se a nós no Hackathon!" }
 
-# Statistic Block
+# Bloco "Estatísticas"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "250", specialCharacter: "+", info: "participantes", detail: "de todos os lugares"}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "de conteúdo sobre tecnologias Google"}
+ - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "especialistas regionais"}
+ - {count: "2", specialCharacter: "", info: "trilhas simultâneas", detail: "mais espaço para networking"}
 
-# Latest News Block
-latestNewsTitle: "Latest news"
+# Bloco "Últimas Notícias"
+latestNewsTitle: "Ultimas notícias"
 
-# Rockstar Speakers Block
+# Bloco "Palestrantes Rockstar"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Palestrantes 'rockstar'"
+rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-24T10:00"
+# Bloco "Localização"
+locationBlockTitle: "Local"
+eventLocationName: "Computer Hall"
+eventLocationLink: "http://www.computerhall.com.br/hall/"
+eventStreetAddress: "Av. Antônio Barreto nº 1176 (entre 9 de Janeiro e Alcindo Cacela), Umarizal"
+eventAddressLocality: "Belém"
+eventAddressLocalityRegion: "Pará"
+eventPostalCode: "66055-050"
+eventAddressCountry: "Brasil"
+eventStartTime: "2014-11-01T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-24T20:00"
-eventPlaceCoordinates: "49.843237,24.028751"
-mapCenterCoordinates: "49.842537,24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2014-11-01T18:00"
+eventPlaceCoordinates: "-1.4430633,-48.4779501"
+mapCenterCoordinates: "-1.4430633,-48.4779501"
+mapMobileCenterCoordinates: "-1.4430633,-48.4779501"
 
-# Venue Block
+# Bloco "Venue"
 venueBlockTitle: "Venue"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Computer Hall"
+venueFeatures: ["Auditório duplo com capacidade total para 580 lugares", "6 salas de eventos", "Acesso facilitado no centro da cidade"]
 
-# Tweets Feed Block
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+# Bloco "Tweets"
+tweetsFeedTitle: "O que está rolando?"
+twitterHashTag: "devfestnorte"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
-# Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+# Bloco "Parceiros"
+organizersTitle: "Organizadores"
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Seja um patrocinador"
 
-# Subscribe Block
-subscribeTitle: "Subscribe for updates"
+# Bloco "Subscreva-se"
+subscribeTitle: "Subscreva-se para novidades"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registre-se até a data do evento. Vagas limitadas. Fique ligado!"
 
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+# Bloco "Tíquetes"
+ticketsTitle: "Tabela de preços"
+ticketsInfo: "Inscrições dão acesso a todas as trilhas de palestras, material do evento e coffee-breaks. Almoço e despesas com happy-hour não inclusas."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  name: "Promocional (até 20/set)"
+  price: "R$ 20,00"
+  priceCurrency: "BRL"
+  ticketsNumber: "200"
   featured: true
+  ribbon: "-50%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Garanta agora!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  validFrom: "2014-08-01T10:00"
+  validThrough: "2014-09-20T23:59"
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
+  name: "Normal"
+  price: "R$ 40,00"
+  priceCurrency: "BRL"
+  ticketsNumber: "100"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  buyButtonText: "Garanta o seu"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2014-09-21T00:00"
+  validThrough: "2014-11-01T23:59"
+  disabled: true
 
-# Footer
+# Rodapé
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
@@ -166,25 +155,25 @@ footerBlocks:
    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contatos"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:comunidadetasafo@gmail.com", text: "Escreva-nos"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas notícias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "devfestnorte"
 
-# Speakers List Block
+# Bloco "Lista de Palestrantes"
 showSessions: true
 thumbnailsFolder: /img/speakers/
 
-# Team Block
-teamBlockTitle: "About us"
+# Bloco "Equipe"
+teamBlockTitle: "Quem somos"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
