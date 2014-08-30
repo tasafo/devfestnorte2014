@@ -1,4 +1,4 @@
-# Building (não mexa a menox que saiba o que está fazendo)
+# Building (não mexa a menos que saiba o que está fazendo)
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
