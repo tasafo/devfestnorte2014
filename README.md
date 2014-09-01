@@ -1,121 +1,30 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Site DevFest Norte 2014, usando GDGx Zeppelin template
 
-### About 
-Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
+Este é o repositório com o conteúdo para o site oficial do [DevFest Norte 2014](http://norte.devfest.com.br).
 
-Project is builded on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
+### O que é o DevFest Norte?
 
-Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
+DevFest são eventos realizados pelas comunidades de desenvolvedores Google (GDG) ao redor do mundo para valorizar as comunidades locais e difundir especialmente o uso de tecnologias Google.
 
-### Live demo http://gdg-x.github.io/zeppelin/
-
-### Features
-* Easy to setup
-* Simple and responsive design
-* Inegrated speakers and sessions management
-* SVG icons
-* SEO friendly
+Em 2014, com a criação dos capítulos [GDG Manaus](https://developers.google.com/events/5693905808916480/), [GDG São Luis](https://developers.google.com/events/5366013551968256/) e [GDG Belém](https://developers.google.com/events/5021105662197760/), decidiu-se promover a primeira edição do evento em conjunto na cidade de Belém, em 1º de novembro de 2014.
 
 
-### Quick-start guide
-1. [Fork](https://github.com/gdg-x/zeppelin/fork) this repo
-2. Clone locally
-3. Update ```_config.yml``` 
-4. Select what content blocks do you need
-5. Push changes to ```gh-pages``` branch
-6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/zeppelin/```
+### Como atualizar o site do DevFest Norte?
 
+* Solicite permissão de commiter para este repositório na [lista de discussão](https://groups.google.com/forum/#!forum/devfest-norte).
+* Clone este repositório localmente em seu computador.
+* Taggeie o repositório com uma tag com a data atual (p.ex. 20140830) para facilitar retornar em caso de problemas.
+* Faça as alterações que desejar.
+* Dê commit nas alterações para o branch ```gh-pages``` e faça push para o repositório.
+* Fim.
 
-## Local development
+Para atualizar informações do evento como palestrantes, local, etc; tudo que você vai precisar será editar as informações correspondentes no arquivo ```_config.yml```.  Se você for commiter do repositório, pode inclusive realizar essas alterações [online](https://github.com/tasafo/site-devfestnorte/blob/master/_config.yml).  Só lembre-se de commitá-las no branch ```gh-pages``` ou elas não aparecerão online.
 
-Check if you have [all requirments for local environment](http://jekyllrb.com/docs/installation/), install [Jekyll server](http://jekyllrb.com/docs/quickstart/) gem and run this command from project root folder:
+*Lembre-se! O conteúdo deste repositório é o próprio site em produção. Portanto seja cuidadoso!*
 
-```bash
-    jekyll serve -w
-```
-Site will be available at http://127.0.0.1:4000/zeppelin/
+As seções do arquivo de configuração estão comentadas e os valores iniciais traduzidos, de forma que você não deve ter grandes dificuldades para  comentado e traduzido de forma que não deve haver grandes dificuldades.  Em caso de qualquer problema, informe na lista e reverta suas alterações ao último ponto funcional.
 
-**NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
-
-### Sass support
-Install Sass. Ruby uses Gems to manage its various packages of code like Sass. In your open terminal window type:
-```bash
-	gem install sass
-```
-
-Also you need to install the latest version of [Compass](http://compass-style.org/) with command
-```bash
-	gem install compass --pre
-```
-
-Then for combining media queries you can use [Sass::MediaQueryCombiner](https://github.com/aaronjensen/sass-media_query_combiner) plugin. Install with command
-```bash
-	gem install sass-media_query_combiner
-```
-
-And for prefixing css3 properties use [Autoprefixer](https://github.com/ai/autoprefixer)
-```bash
-	gem install autoprefixer-rails
-```
-
-To watch changes in `.sass` files and compile it to the `.css` on a fly, run this command from `\_sass\` folder
-```bash
-	compass watch -c config.rb -e production
-```
-
-Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
-
-
-### Resource optimizations (optional)
-
-You can optimize images and minify css and javascript automaticaly (for now only on Windows).
-Optimize all images by running this script from `/automation/images/` folder:
-```bash
-    all_image_optimization.bat -d -jtran -pout -pquant -optip -gsicle -svgo
-```
-
-To minify CSS and JS run `minify_all.bat` from `/automation/minifying/` folder:
-```bash
-    minify_all.bat
-```
-
-Learn more about available optimization options from [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
-
-### Documentation
-Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
-
-
-### TODO List
-* Schedule page template
-* Optimization scripts for mac and linux
-
-### Known issues
-* Scrolling on open navbar
-
-### Used libraries
-* [Bootstrap](https://github.com/twbs/bootstrap)
-* [Animate.css](https://github.com/daneden/animate.css)
-* [Waves](https://github.com/publicis-indonesia/Waves)
-* [jquery.appear](https://github.com/bas2k/jquery.appear)
-* [jQuery countTo Plugin](https://github.com/mhuggins/jquery-countTo)
-* [Typed.js](https://github.com/mattboldt/typed.js)
-* [Sticky-kit](https://github.com/leafo/sticky-kit)
-
-### Who is using template?
-Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.
-
-* [GDG DevFest Ukraine 2014](http://devfest.gdg.org.ua/)
-* [GDG DevFest Instanbul 2014](http://devfesttr.com/)
-* [GDG DevFest Omsk 2014](http://gdg-devfest-omsk.org/)
-* [GDG Bangalore Site](http://gdgbangalore.github.io/)
-* [2014 南阳 GDG Devfest 大会](http://devfest.gdgny.org)
-* [DevFest Nordeste 2014](http://devfestnordeste.github.io/devfest-2014/)
-
-### Contributors
-* Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
-* Idea and Jekyll integration: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
-
-### Licence
-Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don'y forget to add reference to authors :)
-
+Para mais informações,
+* [Tudo sobre o GitHub pages](https://help.github.com/categories/20/articles)
+* [Iniciando com template Zeppelin e Jekyll](https://github.com/gdg-x/zeppelin#quick-start-guide)
 

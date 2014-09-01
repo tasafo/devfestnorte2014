@@ -49,9 +49,9 @@ rightNavigationButtons:
  - {link: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Submeta sua palestra"}
 
 # Bloco "Hero"
-heroTitle: "GDG DevFest Norte 2014"
+heroTitle: "DevFest Norte 2014"
 eventDate: "1º de novembro de 2014" 
-typeoutTextValues: '"", "Belém", "Manaus", "São Luiz", "Norte", "Amazônia", "Brasil"'
+typeoutTextValues: '""'
 typeoutFallback: "Temporada"
 heroButtons:
  - {url: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Seja um palestrante"}
