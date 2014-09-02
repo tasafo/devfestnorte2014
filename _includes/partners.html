@@ -4,12 +4,12 @@
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
-            <h5>{{ organizer.group }}</h5>
+            
             <ul class="list-inline">
                 {% for element in organizer.elements %}
                 <li>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                      <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
@@ -17,7 +17,7 @@
             {% endfor %}
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
-            <h5>{{ partner.group }}</h5>
+            
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li>
