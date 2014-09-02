@@ -209,3 +209,6 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
+# Schedule Block
+scheduleWarning: "Observação: a programação ainda pode sofrer alterações sem aviso prévio."
