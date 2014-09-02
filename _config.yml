@@ -33,16 +33,13 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
-
 # Navegação
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "Logística"}
- - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Submeta sua palestra"}
 rightNavigationButtons:
