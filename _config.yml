@@ -99,7 +99,7 @@ venueFeatures: ["Auditório duplo com capacidade total para 580 lugares", "6 sal
 # Bloco "Tweets"
 tweetsFeedTitle: "O que está rolando?"
 twitterHashTag: "devfestnorte"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Bloco "Parceiros"
 organizersTitle: "Organizadores"
