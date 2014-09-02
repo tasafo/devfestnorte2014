@@ -4,12 +4,12 @@
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
-            
+            <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
-                <li>
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
-                      <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
@@ -17,10 +17,10 @@
             {% endfor %}
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
-            
+            <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
                 {% for element in partner.elements %}
-                <li>
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
                         <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
@@ -28,7 +28,7 @@
                 {% endfor %}
             </ul>
             {% endfor %}
-           <!--  <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a> -->
+            <a href="mailto:devfest-norte@googlegroups.com" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
         </div>
     </div> 
 </section>
