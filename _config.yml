@@ -92,7 +92,7 @@ mapCenterCoordinates: "-1.4430633,-48.4779501"
 mapMobileCenterCoordinates: "-1.4430633,-48.4779501"
 
 # Bloco "Venue"
-venueBlockTitle: "Venue"
+venueBlockTitle: "Local"
 venueTitle: "Computer Hall"
 venueFeatures: ["Auditório duplo com capacidade total para 580 lugares", "6 salas de eventos", "Acesso facilitado no centro da cidade"]
 
