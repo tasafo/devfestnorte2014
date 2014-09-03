@@ -11,7 +11,7 @@ description: "DevFest Norte é o maior evento de tecnologias Google na região n
 baseurl: ""
 url: "http://norte.devfest.com.br"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-54405211-1"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Informações dos organizadores
