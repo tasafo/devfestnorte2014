@@ -98,3 +98,14 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+FelipeAraujoE/posts"}
     - {name: "twitter", link: "https://twitter.com/e_felipearaujo"}
     - {name: "facebook", link: "http://facebook.com/e.felipearaujo"}
+- 
+  id: 4
+  name: "Felipe"
+  surname: "Iketani"
+  title: "GDG Belém"
+  thumbnailUrl: ike.png
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/114952267062359080616/posts"}
+    - {name: "twitter", link: "https://twitter.com/felipe_ik"}
+    - {name: "github", link: "https://github.com/felipe_ik"}
