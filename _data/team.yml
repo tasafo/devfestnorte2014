@@ -1,60 +1,61 @@
-# - 
-#   id: 0
-#   name: "Vitaliy"
-#   surname: "Zasadnyy"
-#   title: "Sponsors and Speakers Manager"
-#   thumbnailUrl: VitaliyZasadnyy.jpg
-#   team: true
-#   ribbon: 
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-#     - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-#     - {name: "github", link: "https://github.com/zasadnyy"}
-#     - {name: "site", link: "http://zasadnyy.com/"}
-# - 
-#   id: 1
-#   name: "Oleh"
-#   surname: "Zasadnyy"
-#   title: "Designer"
-#   thumbnailUrl: OlehZasadnyy.jpg
-#   team: true
-#   ribbon: 
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-#     - {name: "github", link: "https://github.com/ozasadnyy"}
-# - 
-#   id: 2
-#   name: "Ostap"
-#   surname: "Andrusiv"
-#   title: "Sponsors and Speakers Manager"
-#   thumbnailUrl: OstapAndrusiv.jpg
-#   team: true
-#   ribbon: 
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-#     - {name: "twitter", link: "https://twitter.com/p1f"}
-#     - {name: "site", link: "http://andrusiv.com/"}
-# - 
-#   id: 4
-#   name: "Dmytro"
-#   surname: "Danylyk"
-#   title: "Android Program Committee"
-#   thumbnailUrl: DmytroDanylyk.jpg
-#   subTeam: true
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# - 
-#   id: 7
-#   name: "Valentyn"
-#   surname: "Shybanov"
-#   title: "Web and Cloud Program Committee"
-#   thumbnailUrl: ValentynShybanov.jpg
-#   subTeam: true
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#     - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 0
+  name: "Marcelo"
+  surname: "Andrade"
+  title: "GDG Belém"
+  thumbnailUrl: mfandrade.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/116319244981720815440/"}
+    - {name: "twitter", link: "https://twitter.com/mfandrade"}
+    - {name: "github", link: "https://github.com/mfandrade"}
+    - {name: "facebook", link: "http://facebook.com/mfandrade1"}
+- 
+  id: 1
+  name: "Vitor"
+  surname: "Molotov"
+  title: "GDG Belém"
+  thumbnailUrl: vitor.jpg
+  subTeam: true
+  # ribbon: 
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social: 
+  #   - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+  #   - {name: "github", link: "https://github.com/ozasadnyy"}
+- 
+  id: 2
+  name: "Luiz"
+  surname: "Sanches"
+  title: "GDG Belém"
+  thumbnailUrl: luiz-sanches.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://www.google.com/+LuizSanches"}
+    - {name: "twitter", link: "https://twitter.com/luizsanxes"}
+    - {name: "github", link: "https://github.com/luizsanches"}
+- 
+  id: 3
+  name: "Paulo"
+  surname: "Moura"
+  title: "GDG Belém"
+  thumbnailUrl: paulomoura.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/105122656368979018439/posts"}
+    - {name: "twitter", link: "https://twitter.com/paulociecomp"}
+    - {name: "github", link: "https://github.com/paulociecomp"}
+- 
+  id: 4
+  name: "Paulo"
+  surname: "Igor"
+  title: "GDG Belém"
+  thumbnailUrl: pigor.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+PauloIgorGodinho/posts"}
+    - {name: "twitter", link: "https://twitter.com/pigor"}
+    - {name: "github", link: "https://github.com/pigor"}
