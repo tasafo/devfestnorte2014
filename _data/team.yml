@@ -59,3 +59,13 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+PauloIgorGodinho/posts"}
     - {name: "twitter", link: "https://twitter.com/pigor"}
     - {name: "github", link: "https://github.com/pigor"}
+- 
+  id: 5
+  name: "Gabriel"
+  surname: "Bernardo"
+  title: "GDG Manaus"
+  thumbnailUrl: gabrielbernardo.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+GabrielBernardoPereira/posts"}
+    - {name: "github", link: "https://github.com/gabeira"}
