@@ -43,7 +43,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Submeta sua palestra"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Submeta sua palestra"}
+ - {link: "http://www.eventick.com.br/devfest-norte-2014", text: "Inscreva-se!"}
 
 # Bloco "Hero"
 heroTitle: "GDG DevFest <typeout> 2014"
@@ -112,31 +112,43 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registre-se até a data do evento. Vagas limitadas. Fique ligado!"
 
 # Bloco "Tíquetes"
+btnInscrevase: "Inscreva-se"
 ticketsTitle: "Tabela de preços"
 ticketsInfo: "Inscrições dão acesso a todas as trilhas de palestras, material do evento e coffee-breaks. Almoço e despesas com happy-hour não inclusas."
 ticketsOffers:
  -
-  name: "Promocional (até 20/set)"
-  price: "R$ 20,00"
+  name: "Agoniado (até 20/set)"
+  price: "R$ 35,00"
   priceCurrency: "BRL"
   ticketsNumber: "200"
   featured: true
   ribbon: "-50%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
   buyButtonText: "Garanta agora!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-01T10:00"
   validThrough: "2014-09-20T23:59"
  -
-  name: "Normal"
-  price: "R$ 40,00"
+  name: "Só na manha"
+  price: "R$ 50,00"
   priceCurrency: "BRL"
   ticketsNumber: "100"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
   buyButtonText: "Garanta o seu"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-09-21T00:00"
-  validThrough: "2014-11-01T23:59"
+  validThrough: "2014-10-12T23:59"
+  disabled: true
+ -
+  name: "Atrasildo"
+  price: "R$ 60,00"
+  priceCurrency: "BRL"
+  ticketsNumber: "50"
+  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
+  buyButtonText: "Garanta o seu"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-10-12T00:00"
+  validThrough: "2014-11-01T08:00"
   disabled: true
 
 # Rodapé
