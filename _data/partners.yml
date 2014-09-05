@@ -8,7 +8,7 @@
   elements: 
     - {name: "Tá Safo", description: "Comunidade Tá Safo", link: "https://www.google.com.ua/intl/en/about/", imageUrl: 'logo-ta-safo-2013.png'}
     - {name: "HUB 728", description: "Coworking", link: "http://www.hub728.com.br/", imageUrl: "logo-hub728.png"}
-    # - {name: "EBI", description: "EBI Soluções em Tecnologia", link: "http://www.ebi.com.br/", imageUrl: "logo-ebi.png"}
+    - {name: "EBI", description: "EBI Soluções em Tecnologia", link: "http://www.ebi.com.br/", imageUrl: "logo-ebi.png"}
 #     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
 # - 
 #   group: "Information partners"
