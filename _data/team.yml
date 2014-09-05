@@ -114,7 +114,7 @@
   name: "Fábio"
   surname: "Figueiredo"
   title: "GDG Belém"
-  thumbnailUrl: fabinho.png
+  thumbnailUrl: fabinho.jpeg
   team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+FabioLimaF/posts"}
