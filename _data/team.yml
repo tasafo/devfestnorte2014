@@ -14,16 +14,15 @@
     - {name: "facebook", link: "http://facebook.com/mfandrade1"}
 - 
   id: 1
-  name: "Vitor"
-  surname: "Molotov"
+  name: "Paulo"
+  surname: "Moura"
   title: "GDG Belém"
-  thumbnailUrl: vitor.jpg
-  subTeam: true
-  # ribbon: 
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social: 
-  #   - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-  #   - {name: "github", link: "https://github.com/ozasadnyy"}
+  thumbnailUrl: paulomoura.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/105122656368979018439/posts"}
+    - {name: "twitter", link: "https://twitter.com/paulociecomp"}
+    - {name: "github", link: "https://github.com/paulociecomp"}
 - 
   id: 2
   name: "Luiz"
@@ -37,18 +36,7 @@
     - {name: "google-plus", link: "https://www.google.com/+LuizSanches"}
     - {name: "twitter", link: "https://twitter.com/luizsanxes"}
     - {name: "github", link: "https://github.com/luizsanches"}
-- 
-  id: 3
-  name: "Paulo"
-  surname: "Moura"
-  title: "GDG Belém"
-  thumbnailUrl: paulomoura.jpg
-  team: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/105122656368979018439/posts"}
-    - {name: "twitter", link: "https://twitter.com/paulociecomp"}
-    - {name: "github", link: "https://github.com/paulociecomp"}
-- 
+-
   id: 4
   name: "Paulo"
   surname: "Igor"
@@ -75,7 +63,7 @@
   surname: "Gallão"
   title: "GDG Manaus"
   thumbnailUrl: santiago.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+SanthyagoGallao/posts"}
 - 
@@ -84,7 +72,7 @@
   surname: "Nogueira"
   title: "GDG Manaus"
   thumbnailUrl: danielnogueira.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+DanielNogueiraBrasil/posts"}
 -
@@ -93,19 +81,32 @@
   surname: "Araujo"
   title: "GDG Belém"
   thumbnailUrl: felipe.jpg
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+FelipeAraujoE/posts"}
     - {name: "twitter", link: "https://twitter.com/e_felipearaujo"}
     - {name: "facebook", link: "http://facebook.com/e.felipearaujo"}
 - 
-  id: 4
+  id: 9
   name: "Felipe"
   surname: "Iketani"
   title: "GDG Belém"
   thumbnailUrl: ike.png
-  subTeam: true
+  team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/114952267062359080616/posts"}
     - {name: "twitter", link: "https://twitter.com/felipe_ik"}
     - {name: "github", link: "https://github.com/felipeik"}
+- 
+  id: 10
+  name: "Vitor"
+  surname: "Molotov"
+  # title: "GDG Belém"
+  thumbnailUrl: vitor.jpg
+  team: true
+  # ribbon: 
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social: 
+  #   - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+  #   - {name: "github", link: "https://github.com/ozasadnyy"}
+- 
