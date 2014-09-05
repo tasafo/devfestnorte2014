@@ -110,3 +110,12 @@
   #   - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
   #   - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
+  id: 11
+  name: "Fábio"
+  surname: "Figueiredo"
+  title: "GDG Belém"
+  thumbnailUrl: fabinho.png
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+FabioLimaF/posts"}
+    - {name: "twitter", link: "https://twitter.com/fabiolimaf"}
