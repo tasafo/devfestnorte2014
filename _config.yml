@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Parâmetros do site
 title: "DevFest Norte 2014"
-email: "mfandrade@gmail.com"
+email: "comunidadetasafo@gmail.com"
 description: "DevFest Norte é o maior evento de tecnologias Google na região norte do Brasil."
 baseurl: ""
 url: "http://norte.devfest.com.br"
@@ -18,7 +18,7 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 organizerName: "GDG Belém"
 organizerAlternateName: "Google Developer Group Belém"
 organizerDescription: "Comunidade aberta e voluntária que estuda, cria e dissemina tecnologias e desenvolvimento ágil em Belém do Pará."
-organizerEmail: "mfandrade@gmail.com"
+organizerEmail: "comunidadetasafo@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://norte.devfest.com.br/"
 
