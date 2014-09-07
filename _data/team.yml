@@ -119,3 +119,25 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+FabioLimaF/posts"}
     - {name: "twitter", link: "https://twitter.com/fabiolimaf"}
+- 
+  id: 12
+  name: "Nanderson"
+  surname: "Castro"
+  title: "GDG São Luis"
+  thumbnailUrl: nanderson_avatar.png
+  team: true
+  social:
+    - {name: "google-plus", link: "http://google.com/+nandersoncastro"}
+    - {name: "twitter", link: "https://twitter.com/NandoKstroNet"}
+    - {name: "github", link: "https://www.github.com/NandoKstroNet"}
+- 
+  id: 13
+  name: "Ramon"
+  surname: "Rabello"
+  title: "GDG São Belém"
+  thumbnailUrl: ramon.jpeg
+  team: true
+  social:
+    - {name: "google-plus", link: "http://google.com/+ramonrabello"}
+    - {name: "twitter", link: "https://twitter.com/ramonrabello"}
+    - {name: "github", link: "https://www.github.com/ramonrabello"}
