@@ -26,11 +26,11 @@
   complexity: ""
 -
   id: 005
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Desenvolvimento de jogos para Android"
+  description: "Aprenda sobre as etapas do processo de produção e a utilização da ferramenta open-source LibGDX junto ao SDK do sistema operacional Android para criação de jogos 2D para smartphones."
   subtype: presentation
-  #speakers: [3]
-  #language: pt-br
+  speakers: [1]
+  language: pt-br
   complexity: ""
 -
   id: 006
