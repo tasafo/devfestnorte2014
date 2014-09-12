@@ -26,6 +26,14 @@
   complexity: ""
 -
   id: 005
+  title: "Os desafios do desenvolvimento do app nos 33 países"
+  description: "Como CTO & Founder da Easy Taxi, Vinicius Gracia falará em sua palestra a respeito dos desafios do desenvolvimento de um aplicativo, que tem como principal objetivo ajudar a mobilidade urbana nos 33 países em que está presente. Um dos principais pontos será falar sobre a adaptação que o aplicativo precisa ter para atender as necessidades de cada região em que está presente ao redor do globo. "
+  subtype: presentation
+  speakers: [2]
+  language: pt-br
+  complexity: ""
+-
+  id: 007
   title: "Desenvolvimento de jogos para Android"
   description: "Aprenda sobre as etapas do processo de produção e a utilização da ferramenta open-source LibGDX junto ao SDK do sistema operacional Android para criação de jogos 2D para smartphones."
   subtype: presentation
@@ -34,14 +42,6 @@
   complexity: ""
 -
   id: 006
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
-  subtype: presentation
-  #speakers: [4]
-  #language: pt-br
-  complexity: ""
--
-  id: 007
   title: "Aguardem mais detalhes"
   description: "Em breve divulgaremos mais atrações."
   subtype: presentation

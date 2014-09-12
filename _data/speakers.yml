@@ -10,19 +10,17 @@
   social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-#   id: 4
-#   name: "Dmytro"
-#   surname: "Danylyk"
-#   company: "Lemberg Solutions Limited"
-#   title: "Android Developer"
-#   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#   thumbnailUrl: DmytroDanylyk.jpg
-#   rockstar: true
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# - 
+  id: 2
+  name: "Vinicius"
+  surname: "Gracia"
+  company: "Easy taxi"
+  title: "Os desafios do desenvolvimento do app nos 33 países"
+  bio: 'Vinicius Gracia é atual CTO e Founder da Easy Taxi. Ele é responsável por toda arquitetura, sistemas e apps de 33 países e tem como missão que o mesmo aplicativo, usado ao redor do globo funcione e se adapte as necessidades diferentes de cada região. Está na Easy Taxi desde a concepção da ideia e realizou o projeto e desenvolvimento de todos os sistemas necessários para a operação. Vinícius sempre teve espirito empreendedor, participou do desenvolvimento de um sistema helpdesk para IBM, todo baseado em web. Antes da internet existir no Brasil, era necessário conectar com a IBM,por meio de internet discada, ligando para os EUA. Desenvolveu sistemas de helpdesk para Acer, Packard Bell, o Compaq Phone, Vários provedores de internet como Mandic, Domain, Openlink. É sócio de mais duas empresas de técnologia, JGracia informática que faz todo sistema de delivery e gerencia de franquias do Giraffas e da Techsamurai que foi onde surgiu a Easy Taxi. Formado em ciência da computação nos Estados Unidos e Engenharia da Computação no Brasil.'
+  thumbnailUrl: Vini.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/vinicius-gracia/53/36b/8a4"}
+- 
 #   id: 5
 #   name: "Mateusz"
 #   surname: "Herych"
