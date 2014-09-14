@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Parâmetros do site
 title: "DevFest Norte 2014"
-email: "comunidadetasafo@gmail.com"
+email: "devfestnorte.org@gmail.com"
 description: "DevFest Norte é o maior evento de tecnologias Google na região norte do Brasil."
 baseurl: ""
 url: "http://norte.devfest.com.br"
