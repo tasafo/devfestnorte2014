@@ -71,8 +71,8 @@ statisticBlock:
 latestNewsTitle: "Ultimas notícias"
 
 # Bloco "Palestrantes Rockstar"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Palestrantes 'rockstar'"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Palestrantes rockstar"
 rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Bloco "Localização"
