@@ -21,21 +21,22 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/pub/vinicius-gracia/53/36b/8a4"}
 - 
-#   id: 5
-#   name: "Mateusz"
-#   surname: "Herych"
-#   company: "Base CRM, GDG Krakow"
-#   title: "Software Engineer"
-#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-#   thumbnailUrl: MateuszHerych.jpg
-#   rockstar: true
-#   ribbon: 
-#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#     - {name: "twitter", link: "https://twitter.com/mherych"}
-# - 
+  id: 3
+  name: "Hiarison"
+  surname: "Gigante"
+  # company: "Base CRM, GDG Krakow"
+  title: "Conhecendo Go"
+  bio: "Tem formação como técnico em eletrônica. Entrou na área por curiosidade e trabalha com programação desde os 17. Passou por várias empresas e pode conhecer diversas áreas, como sistema tributário, varejo, análise de crédito e diversos SaaS. Nessas atividades teve contanto com diversas linguagens: Delphi, C#, Java, PHP, Shell Script, Ruby, Python e mais atualmente Go. Participa ativamente na comunidade de Software como um dos membros da diretoria do PHP Maranhão e do GDG São Luís."
+  thumbnailUrl: gigante.png
+  rockstar: true
+  ribbon: 
+    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110989914818554163164/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+HiarisonGigante"}
+    - {name: "twitter", link: "https://twitter.com/gigantedesousa"}
+    - {name: "github", link: "https://github.com/gigante"}
+- 
 #   id: 6
 #   name: "Roman"
 #   surname: "Mazur"

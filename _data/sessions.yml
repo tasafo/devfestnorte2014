@@ -18,11 +18,11 @@
   service: true
 -
   id: 004
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Conhecendo Go"
+  description: "Aprenda sobre a origem e motivações da criação da linguagem Go. Além disso, serão mostrados vários exemplos pra mostrar do que a linguagem é capaz! Essa palestra é pra você."
   subtype: presentation
-  #speakers: [2]
-  #language: pt-br
+  speakers: [3]
+  language: pt-br
   complexity: ""
 -
   id: 005
