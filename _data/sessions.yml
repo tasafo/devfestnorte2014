@@ -62,12 +62,12 @@
   complexity: ""
 -
   id: 010
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Animando a UI: entregue uma experiência, não apenas um aplicativo"
+  description: "Saiba como tornar sua aplicação mais atraente e eficiente através de transições animadas (sem deixar seu usuário entediado!)."
   subtype: presentation
-  #speakers: [7]
-  #language: pt-br
-  complexity: ""
+  speakers: [4]
+  language: pt-br
+  complexity: "intermediário"
 -
   id: 011
   title: "Aguardem mais detalhes"

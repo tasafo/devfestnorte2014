@@ -37,6 +37,22 @@
     - {name: "twitter", link: "https://twitter.com/gigantedesousa"}
     - {name: "github", link: "https://github.com/gigante"}
 - 
+  id: 4
+  name: "Santhyago"
+  surname: "Gallão"
+  company: "Samsung"
+  title: "Animando a UI: entregue uma experiência, não apenas um aplicativo"
+  bio: "Santhyago Gallão é o líder técnico do UX Development da Samsung, porta-voz da Comunidade Android Brasil e o Organizador do Google Developer Group de Manaus. Cursou Ciências da Computação, Gestão de Tecnologia da Informação e pós-graduação em Design Centrado no Usuário. Possui mais de 15 anos de experiência em computação e sua experiência inclui, mas não se limita à redes de computadores, sistemas operacionais, governança de TI e mobilidade tecnológica. Tem participação em eventos nacionais e internacionais de tecnologia, comunicação e experiência de usuário."
+  thumbnailUrl: santiago.jpg
+  rockstar: true
+  ribbon: 
+    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106902919091030560197/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SanthyagoGallao/"}
+    - {name: "twitter", link: "https://twitter.com/_Santhyago"}
+    - {name: "github", link: "https://github.com/santhyago"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/santhyago-gallao/b/920/a4b"}
 #   id: 6
 #   name: "Roman"
 #   surname: "Mazur"
