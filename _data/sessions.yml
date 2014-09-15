@@ -70,12 +70,12 @@
   complexity: "intermediário"
 -
   id: 011
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Go para Microserviços"
+  description: "Iremos falar de Go, Gorilla/Mux, hospedagem, integração contínua e deployment (utilizando Docker)"
   subtype: presentation
-  #speakers: [8]
-  #language: pt-br
-  complexity: ""
+  speakers: [5]
+  language: pt-br
+  complexity: "avançado"
 -
   id: 012
   title: "Aguardem mais detalhes"

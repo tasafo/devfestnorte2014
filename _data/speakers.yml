@@ -53,20 +53,22 @@
     - {name: "twitter", link: "https://twitter.com/_Santhyago"}
     - {name: "github", link: "https://github.com/santhyago"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/santhyago-gallao/b/920/a4b"}
-#   id: 6
-#   name: "Roman"
-#   surname: "Mazur"
-#   company: "Stanfy, GDG Kyiv"
-#   title: "Head of Android/Java Unit"
-#   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-#   thumbnailUrl: RomanMazur.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-# - 
+-  
+  id: 5
+  name: "Aldrin"
+  surname: "Leal"
+  company: "Ingenieux"
+  title: "Go para Microserviços"
+  bio: "Aldrin Leal trabalha como Arquiteto, especialmente focado em Nuvem e Big Data. Além de sua cota de anos acumulados nas trincheiras em projetos variando a Telecom, Aerospacial, Governo, ele ainda possui uma paixão para encontrar novos paradigmas e imaginar uma maneira de incorporá-las em novas empreitadas."
+  thumbnailUrl: aldrin.jpg
+  rockstar: true
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/102144971800453625513/posts"}
+    - {name: "twitter", link: "http://twitter.com/aldrinleal"}
+    - {name: "github", link: "https://github.com/aldrinleal"}
+- 
 #   id: 7
 #   name: "Valentyn"
 #   surname: "Shybanov"
