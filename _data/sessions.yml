@@ -71,7 +71,7 @@
 -
   id: 011
   title: "Go para Microserviços"
-  description: "Iremos falar de Go, Gorilla/Mux, hospedagem, integração contínua e deployment (utilizando Docker)"
+  description: "Iremos falar de Go, hospedagem, integração contínua e deployment."
   subtype: presentation
   speakers: [5]
   language: pt-br
