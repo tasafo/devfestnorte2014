@@ -22,7 +22,7 @@ Para atualizar informações do evento como palestrantes, local, etc; tudo que v
 
 **Lembre-se! O conteúdo deste repositório é o próprio site em produção. Portanto seja cuidadoso!**
 
-As seções do arquivo de configuração estão comentadas e os valores iniciais traduzidos, de forma que você não deve ter grandes dificuldades para  comentado e traduzido de forma que não deve haver grandes dificuldades.  Em caso de qualquer problema, informe na lista e reverta suas alterações ao último ponto funcional.
+As seções do arquivo de configuração estão comentadas e os valores iniciais traduzidos, de forma que você não deve ter grandes dificuldades para fazer as atualizações que quiser.  Em caso de qualquer problema, informe na lista e reverta suas alterações ao último ponto funcional.
 
 Para mais informações,
 * [Tudo sobre o GitHub pages](https://help.github.com/categories/20/articles)
