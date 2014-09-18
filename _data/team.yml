@@ -134,10 +134,21 @@
   id: 13
   name: "Ramon"
   surname: "Rabello"
-  title: "GDG São Belém"
+  title: "GDG Belém"
   thumbnailUrl: ramon.jpeg
   team: true
   social:
     - {name: "google-plus", link: "http://google.com/+ramonrabello"}
     - {name: "twitter", link: "https://twitter.com/ramonrabello"}
     - {name: "github", link: "https://www.github.com/ramonrabello"}
+- 
+  id: 14
+  name: "Hiarison"
+  surname: "Gigante"
+  title: "GDG São Luís"
+  thumbnailUrl: gigante.png
+  team: true
+  social:
+    - {name: "google-plus", link: "http://google.com/+HiarisonGigante"}
+    - {name: "twitter", link: "https://twitter.com/gigantedesousa"}
+    - {name: "github", link: "https://www.github.com/gigante"}

@@ -72,7 +72,7 @@ latestNewsTitle: "Ultimas notícias"
 
 # Bloco "Palestrantes Rockstar"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Palestrantes 'rockstar'"
+rockstarSpeakersTitle: "Palestrantes rockstar"
 rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Bloco "Localização"
@@ -117,28 +117,29 @@ ticketsTitle: "Tabela de preços"
 ticketsInfo: "Inscrições dão acesso a todas as trilhas de palestras, material do evento e coffee-breaks. Almoço e despesas com happy-hour não inclusas."
 ticketsOffers:
  -
-  name: "Agoniado (até 20/set)"
+  name: "Agoniado"
   price: "R$ 35,00"
   priceCurrency: "BRL"
-  ticketsNumber: "200"
+  ticketsNumber: "100"
   featured: true
   ribbon: "-50%"
   buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
   buyButtonText: "Garanta agora!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-01T10:00"
-  validThrough: "2014-09-20T23:59"
+  validThrough: "2014-09-14T23:59"
+  disabled: true
  -
   name: "Só na manha"
   price: "R$ 50,00"
   priceCurrency: "BRL"
-  ticketsNumber: "100"
+  ticketsNumber: "50"
   buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
-  buyButtonText: "Garanta o seu"
+  buyButtonText: "Garanta agora!"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-09-21T00:00"
+  validFrom: "2014-09-15T00:00"
   validThrough: "2014-10-12T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Atrasildo"
   price: "R$ 60,00"
@@ -147,7 +148,7 @@ ticketsOffers:
   buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
   buyButtonText: "Garanta o seu"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-12T00:00"
+  validFrom: "2014-10-13T00:00"
   validThrough: "2014-11-01T08:00"
   disabled: true
 
