@@ -18,7 +18,7 @@ Em 2014, com a criação dos capítulos [GDG Manaus](https://developers.google.c
 * Dê commit nas alterações para o branch ```gh-pages``` e faça push para o repositório.
 * Fim.
 
-Para atualizar informações do evento como palestrantes, local, etc; tudo que você vai precisar será editar as informações correspondentes no arquivo ```_config.yml```.  Se você for commiter do repositório, pode inclusive realizar essas alterações [online](https://github.com/tasafo/site-devfestnorte/blob/master/_config.yml).  Só lembre-se de commitá-las no branch ```gh-pages``` ou elas não aparecerão online.
+Para atualizar informações do evento como palestrantes, local, etc; tudo que você vai precisar será editar as informações correspondentes no arquivo ```_config.yml```.  Se você for commiter do repositório, pode inclusive realizar essas alterações [online](https://github.com/tasafo/site-devfestnorte/blob/gh-pages/_config.yml).  Só lembre-se de commitá-las no branch ```gh-pages``` ou elas não aparecerão online.
 
 *Lembre-se! O conteúdo deste repositório é o próprio site em produção. Portanto seja cuidadoso!*
 
