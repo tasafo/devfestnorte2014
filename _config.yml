@@ -48,7 +48,7 @@ rightNavigationButtons:
 # Bloco "Hero"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "1º de novembro de 2014" 
-typeoutTextValues: '"", "NORTE", "Belém"'
+typeoutTextValues: '"", "NORTE", "Belém", "Manaus", "São Luís"'
 typeoutFallback: "Temporada"
 heroButtons:
  - {url: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Seja um palestrante"}
@@ -56,13 +56,13 @@ heroButtons:
 # Bloco "Sobre"
 aboutTitle: "Sobre o DevFest Norte"
 aboutBlock:
- - {title: "Conferência", image: "conference.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luiz!  Temas interessantes, ótimos palestrantes e muita diversão!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Um dia inteiro de workshops, experiências mão-na-massa, hacking e aprendizado. Venha e domine as tecnologias que fazem a diferença no seu dia-a-dia." }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Uma verdadeira maratona de programação. Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Forme sua equipe e junte-se a nós no Hackathon!" }
+ - {title: "Conferência", image: "conference.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luís!  Temas interessantes, ótimos palestrantes e muita diversão!" }
+ - {title: "Codelab", image: "hackathon.jpg", text: "Uma verdadeira maratona de programação. Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Conheça e aprenda mais com Android Wear com práticas mão-na-massa." }
+ - {title: "Networking", image: "workshop.jpg", text: "Amplie sua rede de networking trocando experiências e muita informação com grandes nomes das comunidades regionais de tecnologia, tudo isso num ambiente leve energizado e descontraído." }
 
 # Bloco "Estatísticas"
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "participantes", detail: "de todos os lugares"}
+ - {count: "200", specialCharacter: "+", info: "participantes", detail: "de todos os lugares"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de conteúdo sobre tecnologias Google"}
  - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "especialistas regionais"}
  - {count: "2", specialCharacter: "", info: "trilhas simultâneas", detail: "mais espaço para networking"}
