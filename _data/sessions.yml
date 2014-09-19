@@ -18,11 +18,11 @@
   service: true
 -
   id: 004
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Conhecendo Go"
+  description: "Aprenda sobre a origem e motivações da criação da linguagem Go. Além disso, serão mostrados vários exemplos pra mostrar do que a linguagem é capaz! Essa palestra é pra você."
   subtype: presentation
-  #speakers: [2]
-  #language: pt-br
+  speakers: [3]
+  language: pt-br
   complexity: ""
 -
   id: 005
@@ -62,20 +62,20 @@
   complexity: ""
 -
   id: 010
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Animando a UI: entregue uma experiência, não apenas um aplicativo"
+  description: "Saiba como tornar sua aplicação mais atraente e eficiente através de transições animadas (sem deixar seu usuário entediado!)."
   subtype: presentation
-  #speakers: [7]
-  #language: pt-br
-  complexity: ""
+  speakers: [4]
+  language: pt-br
+  complexity: "intermediário"
 -
   id: 011
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Go para Microserviços"
+  description: "Iremos falar de Go, hospedagem, integração contínua e deployment."
   subtype: presentation
-  #speakers: [8]
-  #language: pt-br
-  complexity: ""
+  speakers: [5]
+  language: pt-br
+  complexity: "avançado"
 -
   id: 012
   title: "Aguardem mais detalhes"

@@ -21,35 +21,54 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/pub/vinicius-gracia/53/36b/8a4"}
 - 
-#   id: 5
-#   name: "Mateusz"
-#   surname: "Herych"
-#   company: "Base CRM, GDG Krakow"
-#   title: "Software Engineer"
-#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-#   thumbnailUrl: MateuszHerych.jpg
-#   rockstar: true
-#   ribbon: 
-#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#     - {name: "twitter", link: "https://twitter.com/mherych"}
-# - 
-#   id: 6
-#   name: "Roman"
-#   surname: "Mazur"
-#   company: "Stanfy, GDG Kyiv"
-#   title: "Head of Android/Java Unit"
-#   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-#   thumbnailUrl: RomanMazur.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-# - 
+  id: 3
+  name: "Hiarison"
+  surname: "Gigante"
+  company: "PHP Maranhão"
+  title: "Conhecendo Go"
+  bio: "Tem formação como técnico em eletrônica. Entrou na área por curiosidade e trabalha com programação desde os 17. Passou por várias empresas e pode conhecer diversas áreas, como sistema tributário, varejo, análise de crédito e diversos SaaS. Nessas atividades teve contanto com diversas linguagens: Delphi, C#, Java, PHP, Shell Script, Ruby, Python e mais atualmente Go. Participa ativamente na comunidade de Software como um dos membros da diretoria do PHP Maranhão e do GDG São Luís."
+  thumbnailUrl: gigante.png
+  rockstar: true
+  ribbon: 
+    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110989914818554163164/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+HiarisonGigante"}
+    - {name: "twitter", link: "https://twitter.com/gigantedesousa"}
+    - {name: "github", link: "https://github.com/gigante"}
+- 
+  id: 4
+  name: "Santhyago"
+  surname: "Gallão"
+  company: "Samsung"
+  title: "Animando a UI: entregue uma experiência, não apenas um aplicativo"
+  bio: "Santhyago Gallão é o líder técnico do UX Development da Samsung, porta-voz da Comunidade Android Brasil e o Organizador do Google Developer Group de Manaus. Cursou Ciências da Computação, Gestão de Tecnologia da Informação e pós-graduação em Design Centrado no Usuário. Possui mais de 15 anos de experiência em computação e sua experiência inclui, mas não se limita à redes de computadores, sistemas operacionais, governança de TI e mobilidade tecnológica. Tem participação em eventos nacionais e internacionais de tecnologia, comunicação e experiência de usuário."
+  thumbnailUrl: santiago.jpg
+  rockstar: true
+  ribbon: 
+    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106902919091030560197/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SanthyagoGallao/"}
+    - {name: "twitter", link: "https://twitter.com/_Santhyago"}
+    - {name: "github", link: "https://github.com/santhyago"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/santhyago-gallao/b/920/a4b"}
+-  
+  id: 5
+  name: "Aldrin"
+  surname: "Leal"
+  company: "Ingenieux Labs"
+  title: "Go para Microserviços"
+  bio: "Aldrin Leal trabalha como Arquiteto, especialmente focado em Nuvem e Big Data. Além de sua cota de anos acumulados nas trincheiras em projetos variando a Telecom, Aerospacial, Governo, ele ainda possui uma paixão para encontrar novos paradigmas e imaginar uma maneira de incorporá-las em novas empreitadas."
+  thumbnailUrl: aldrin.jpg
+  rockstar: true
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/102144971800453625513/posts"}
+    - {name: "twitter", link: "http://twitter.com/aldrinleal"}
+    - {name: "github", link: "https://github.com/aldrinleal"}
+- 
 #   id: 7
 #   name: "Valentyn"
 #   surname: "Shybanov"
