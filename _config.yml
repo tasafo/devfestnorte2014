@@ -57,7 +57,7 @@ heroButtons:
 aboutTitle: "Sobre o DevFest Norte"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luís!  Temas interessantes, ótimos palestrantes e muita diversão!" }
- - {title: "Codelab", image: "hackathon.jpg", text: "Uma verdadeira maratona de programação. Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Conheça e aprenda mais com Android Wear com práticas mão-na-massa." }
+ - {title: "Codelab", image: "hackathon.jpg", text: "Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Conheça e aprenda mais com Android Wear com práticas mão-na-massa." }
  - {title: "Networking", image: "workshop.jpg", text: "Amplie sua rede de networking trocando experiências e muita informação com grandes nomes das comunidades regionais de tecnologia, tudo isso num ambiente leve energizado e descontraído." }
 
 # Bloco "Estatísticas"
