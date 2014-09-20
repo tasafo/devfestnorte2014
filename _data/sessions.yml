@@ -1,0 +1,115 @@
+-
+  id: 001
+  title: "Credenciamento"
+  place: "Entrada"
+  service: true
+-
+  id: 002
+  title: "Abertura"
+  place: "Salão Principal"
+  subtype: presentation
+  #speakers: [1]
+  #language: pt-br
+  complexity: "Básico"
+-
+  id: 003
+  title: "Café"
+  place: "Hall"
+  service: true
+-
+  id: 004
+  title: "Conhecendo Go"
+  description: "Aprenda sobre a origem e motivações da criação da linguagem Go. Além disso, serão mostrados vários exemplos pra mostrar do que a linguagem é capaz! Essa palestra é pra você."
+  subtype: presentation
+  speakers: [3]
+  language: pt-br
+  complexity: "intermediário"
+-
+  id: 005
+  title: "Os desafios do desenvolvimento do app nos 33 países"
+  description: "Como CTO & Founder da Easy Taxi, Vinicius Gracia falará em sua palestra a respeito dos desafios do desenvolvimento de um aplicativo, que tem como principal objetivo ajudar a mobilidade urbana nos 33 países em que está presente. Um dos principais pontos será falar sobre a adaptação que o aplicativo precisa ter para atender as necessidades de cada região em que está presente ao redor do globo. "
+  subtype: presentation
+  speakers: [2]
+  language: pt-br
+  complexity: "intermediário"
+-
+  id: 007
+  title: "Desenvolvimento de jogos para Android"
+  description: "Aprenda sobre as etapas do processo de produção e a utilização da ferramenta open-source LibGDX junto ao SDK do sistema operacional Android para criação de jogos 2D para smartphones."
+  subtype: presentation
+  speakers: [1]
+  language: pt-br
+  complexity: "intermediário"
+-
+  id: 006
+  title: "Aguardem mais detalhes"
+  description: "Em breve divulgaremos mais atrações."
+  subtype: presentation
+  #speakers: [5]
+  #language: pt-br
+  complexity: ""
+-
+  id: 008
+  title: "Almoço"
+  service: true
+-
+  id: 009
+  title: "Aguardem mais detalhes"
+  description: "Em breve divulgaremos mais atrações."
+  subtype: presentation
+  #speakers: [6]
+  #language: pt-br
+  complexity: ""
+-
+  id: 010
+  title: "Animando a UI: entregue uma experiência, não apenas um aplicativo"
+  description: "Saiba como tornar sua aplicação mais atraente e eficiente através de transições animadas (sem deixar seu usuário entediado!)."
+  subtype: presentation
+  speakers: [4]
+  language: pt-br
+  complexity: "intermediário"
+-
+  id: 011
+  title: "Go para Microserviços"
+  description: "Iremos falar de Go, hospedagem, integração contínua e deployment."
+  subtype: presentation
+  speakers: [5]
+  language: pt-br
+  complexity: "avançado"
+-
+  id: 012
+  title: "Aguardem mais detalhes"
+  description: "Em breve divulgaremos mais atrações."
+  subtype: presentation
+  #speakers: [9]
+  #language: pt-br
+  complexity: ""
+-
+  id: 013
+  title: "Café"
+  place: "Hall"
+  service: true
+-
+  id: 014
+  title: "WebRTC, transmissão de audio e vídeo Real-time com HTML5"
+  description: "Esta apresentação será um overview sobre a tecnologia WebRTC disponível hoje. E como construir um aplicativo WebRTC utilizando sua api javascript e HTML5."
+  subtype: presentation
+  speakers: [6]
+  language: pt-br
+  complexity: "avançado"
+-
+  id: 015
+  title: "Aguardem mais detalhes"
+  description: "Em breve divulgaremos mais atrações."
+  subtype: presentation
+  #speakers: [9]
+  #language: pt-br
+  complexity: ""
+-
+  id: 016
+  title: "Encerramento"
+  description: "Em breve divulgaremos mais atrações."
+  subtype: presentation
+  #speakers: [9]
+  #language: pt-br
+  complexity: ""
