@@ -23,7 +23,7 @@
   subtype: presentation
   speakers: [3]
   language: pt-br
-  complexity: ""
+  complexity: "intermediário"
 -
   id: 005
   title: "Os desafios do desenvolvimento do app nos 33 países"
@@ -31,7 +31,7 @@
   subtype: presentation
   speakers: [2]
   language: pt-br
-  complexity: ""
+  complexity: "intermediário"
 -
   id: 007
   title: "Desenvolvimento de jogos para Android"
@@ -39,7 +39,7 @@
   subtype: presentation
   speakers: [1]
   language: pt-br
-  complexity: ""
+  complexity: "intermediário"
 -
   id: 006
   title: "Aguardem mais detalhes"
@@ -91,12 +91,12 @@
   service: true
 -
   id: 014
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "WebRTC, transmissão de audio e vídeo Real-time com HTML5"
+  description: "Esta apresentação será um overview sobre a tecnologia WebRTC disponível hoje. E como construir um aplicativo WebRTC utilizando sua api javascript e HTML5."
   subtype: presentation
-  #speakers: [9]
-  #language: pt-br
-  complexity: ""
+  speakers: [6]
+  language: pt-br
+  complexity: "avançado"
 -
   id: 015
   title: "Aguardem mais detalhes"

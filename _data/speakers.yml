@@ -68,7 +68,21 @@
     - {name: "google-plus", link: "https://plus.google.com/102144971800453625513/posts"}
     - {name: "twitter", link: "http://twitter.com/aldrinleal"}
     - {name: "github", link: "https://github.com/aldrinleal"}
-- 
+-  
+  id: 6
+  name: "Paulo"
+  surname: "Moura"
+  company: ""
+  title: "WebRTC, transmissão de audio e vídeo Real-time com HTML5"
+  bio: "Um desenvolvedor de software Full Stack que trabalha com diversas tecnologias open source e desenvolvimento ágil. Possui experiência em projetos de software em diferentes linguagens e plataformas como java, ruby, javascript e php."
+  thumbnailUrl: paulomoura.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/104454903082510408559/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/105122656368979018439/posts"}
+    - {name: "twitter", link: "http://twitter.com/paulociecomp"}
+    - {name: "github", link: "https://github.com/paulociecomp"}
 #   id: 7
 #   name: "Valentyn"
 #   surname: "Shybanov"
