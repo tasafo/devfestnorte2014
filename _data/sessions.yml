@@ -78,12 +78,12 @@
   complexity: "avançado"
 -
   id: 012
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "O caminho de um desenvolvedor Android"
+  description: "Nesta apresentação irei mostrar minha trajetória como desenvolvedor Android, relatando os desafios enfrentados, falhas e lições aprendidas durante esses 7 anos de experiência. Explicarei os passos que considero essenciais e boas práticas que todo desenvolvedor Android precisa seguir para obter sucesso com suas apps."
   subtype: presentation
-  #speakers: [9]
-  #language: pt-br
-  complexity: ""
+  speakers: [7]
+  language: pt-br
+  complexity: "intermediário"
 -
   id: 013
   title: "Café"
