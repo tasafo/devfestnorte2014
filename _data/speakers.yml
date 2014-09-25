@@ -100,3 +100,18 @@
     - {name: "twitter", link: "http://twitter.com/ramonrabello"}
     - {name: "github", link: "https://github.com/ramonrabello"}
     - {name: "linkedin", link: "http://br.linkedin.com/in/ramonrabello"}
+-
+  id: 8
+  name: "Gabriel"
+  surname: "Castro"
+  company: ""
+  title: "Ionic Framework: aplicações móveis híbridas com HTML5 e Angular JS"
+  bio: "Gabriel Castro tem formação como técnico em Programação de Computadores e é graduando em Ciência da Computação na Universidade Federal do Maranhão. Também é músico formado como violonista clássico. Trabalha há muitos anos como freelancer, desenvolvendo websites e sistemas em Java e PHP. Inclinado para a pesquisa científica, atualmente é bolsista de pesquisa e desenvolvimento na UNA-SUS/UFMA (Universidade Aberta do SUS), trabalhando como desenvolvedor web e mobile e com uma linha de pesquisa em Informática na Educação, já tendo ministrado diversos seminários e publicado artigos científicos em eventos nacionais e internacionais."
+  thumbnailUrl: gabrielcastro.png
+  rockstar: true
+  ribbon:
+    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/104454903082510408559/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/109574013699104899329/posts"}
+    - {name: "twitter", link: "http://twitter.com/JotaGabryel"}
+    - {name: "github", link: "https://github.com/gabrigcl"}
