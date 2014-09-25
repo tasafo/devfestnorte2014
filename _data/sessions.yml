@@ -18,10 +18,10 @@
   service: true
 -
   id: 004
-  title: "Conhecendo Go"
-  description: "Aprenda sobre a origem e motivações da criação da linguagem Go. Além disso, serão mostrados vários exemplos pra mostrar do que a linguagem é capaz! Essa palestra é pra você."
+  title: "AngularJS: aspectos práticos visando a rapidez"
+  description: "Essa palestra visa demonstrar aspectos práticos da construção de aplicativos com AngularJS no que tange o uso de Controllers eficientes, Serviços descomplicados, Separação de responsabilidade entre entidades e a substituição do uso de $watch por Observers."
   subtype: presentation
-  speakers: [3]
+  speakers: [9]
   language: pt-br
   complexity: "intermediário"
 -
@@ -42,12 +42,12 @@
   complexity: "intermediário"
 -
   id: 006
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Conhecendo Go"
+  description: "Aprenda sobre a origem e motivações da criação da linguagem Go. Além disso, serão mostrados vários exemplos pra mostrar do que a linguagem é capaz! Essa palestra é pra você."
   subtype: presentation
-  #speakers: [5]
-  #language: pt-br
-  complexity: ""
+  speakers: [3]
+  language: pt-br
+  complexity: "intermediário"
 -
   id: 008
   title: "Almoço"

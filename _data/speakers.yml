@@ -118,3 +118,16 @@
     - {name: "google-plus", link: "https://plus.google.com/109574013699104899329/posts"}
     - {name: "twitter", link: "http://twitter.com/JotaGabryel"}
     - {name: "github", link: "https://github.com/gabrigcl"}
+-
+  id: 9
+  name: "Evaldo"
+  surname: "Barbosa"
+  company: "PHP Maranhão"
+  title: "AngularJS: aspectos práticos visando a rapidez"
+  bio: "Focado em programação com PHP especialmente em ambiente linux. Gosta de linux e administração de servidores e últimamente tem tirado bastante proveito da dupla vagrant+puppet. Passou por diversas empresas trabalhando com desenvolvimento web e desktop nos mais variados segmentos, desde empresas privadas a órgãos de governo. É o atual presidente do grupo PHP Maranhão e trabalha para ajudar essa comunidade a tornar-se mais unida e forte."
+  thumbnailUrl: evaldo.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110989914818554163164/"}
+  social: 
+    
