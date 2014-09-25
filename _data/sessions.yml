@@ -26,12 +26,12 @@
   complexity: "intermediário"
 -
   id: 005
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "O caminho de um desenvolvedor Android"
+  description: "Nesta apresentação irei mostrar minha trajetória como desenvolvedor Android, relatando os desafios enfrentados, falhas e lições aprendidas durante esses 7 anos de experiência. Explicarei os passos que considero essenciais e boas práticas que todo desenvolvedor Android precisa seguir para obter sucesso com suas apps."
   subtype: presentation
-  #speakers: [6]
-  #language: pt-br
-  complexity: ""
+  speakers: [7]
+  language: pt-br
+  complexity: "intermediário"
 -
   id: 007
   title: "Desenvolvimento de jogos para Android"
@@ -78,10 +78,10 @@
   complexity: "avançado"
 -
   id: 012
-  title: "O caminho de um desenvolvedor Android"
-  description: "Nesta apresentação irei mostrar minha trajetória como desenvolvedor Android, relatando os desafios enfrentados, falhas e lições aprendidas durante esses 7 anos de experiência. Explicarei os passos que considero essenciais e boas práticas que todo desenvolvedor Android precisa seguir para obter sucesso com suas apps."
+  title: "Ionic Framework: aplicações móveis híbridas com HTML5 e Angular JS"
+  description: "Conheça este espetacular framework front-end para o desenvolvimento de aplicativos móveis, que entrega um conjunto rico de elementos de mobile UI, unindo excelentes tecnologias como Apache Cordova, Angular JS  e Sass."
   subtype: presentation
-  speakers: [7]
+  speakers: [8]
   language: pt-br
   complexity: "intermediário"
 -
