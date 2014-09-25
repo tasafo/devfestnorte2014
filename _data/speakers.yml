@@ -63,6 +63,7 @@
   thumbnailUrl: aldrin.jpg
   rockstar: true
   ribbon:
+    - {abbr: "Tá Safo", title: "Comunidade Tá Safo", url: "http://tasafo.wordpress.com/"}
     # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/102144971800453625513/posts"}
@@ -78,6 +79,7 @@
   thumbnailUrl: paulomoura.jpg
   rockstar: true
   ribbon:
+    - {abbr: "Tá Safo", title: "Comunidade Tá Safo", url: "http://tasafo.wordpress.com/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/104454903082510408559/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/105122656368979018439/posts"}
@@ -94,6 +96,7 @@
   thumbnailUrl: ramon.jpeg
   rockstar: true
   ribbon:
+    - {abbr: "Tá Safo", title: "Comunidade Tá Safo", url: "http://tasafo.wordpress.com/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/104454903082510408559/"}
   social: 
     - {name: "google-plus", link: "http://plus.google.com/+RamonRabello"}
