@@ -1,0 +1,26 @@
+- 
+  group: "Patrocinador Diamond"
+  elements:
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"} 
+    - {name: "Sol", description: "Sol Informática", link: "http://www.intersol.com.br/", imageUrl: "logo-sol.png"} 
+    # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+- 
+  group: "Apoio"
+  elements: 
+    - {name: "Tá Safo", description: "Comunidade Tá Safo", link: "https://www.google.com.ua/intl/en/about/", imageUrl: 'logo-ta-safo-2013.png'}
+    - {name: "HUB 728", description: "Coworking", link: "http://www.hub728.com.br/", imageUrl: "logo-hub728.png"}
+    - {name: "EBI", description: "EBI Soluções em Tecnologia", link: "http://www.ebi.com.br/", imageUrl: "logo-ebi.png"}
+    - {name: "PHP Maranhão", description: "Comunidade PHP do Maranhão", link: "http://www.phpmaranhao.com.br/", imageUrl: "phpma-200x150.png"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+# - 
+#   group: "Information partners"
+#   elements: 
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+#     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+#     - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+#     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
