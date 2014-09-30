@@ -107,9 +107,9 @@
   complexity: ""
 -
   id: 016
-  title: "Encerramento"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Um overview sobre as novidades e tudo o que o Google tem para desenvolvedores."
+  description: ""
   subtype: presentation
-  #speakers: [9]
-  #language: pt-br
+  speakers: [10]
+  language: pt-br
   complexity: ""

@@ -130,4 +130,18 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110989914818554163164/"}
   social: 
-    
+-
+  id: 10
+  name: "Ale"
+  surname: "Borba"
+  company: "Google"
+  title: "Um overview sobre as novidades e tudo o que o Google tem para desenvolvedores."
+  bio: "Community Manager focado em comunidades técnicas e de desenvolvedores. Trabalhando pesado para que todas essas comunidades cresçam. Além disso, um apaixonado por acessibilidade em geral, principalmente web, que realmente acredita que a tecnologia veio para ajudar cada vez mais as pessoas."
+  thumbnailUrl: AleBorba.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/+Al%C3%AABorba/about"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+Al%C3%AABorba/about"}
+    - {name: "twitter", link: "http://twitter.com/ale_borba"}
+    - {name: "github", link: "https://github.com/aleborba"}
