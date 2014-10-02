@@ -145,3 +145,18 @@
     - {name: "google-plus", link: "https://plus.google.com/+Al%C3%AABorba/about"}
     - {name: "twitter", link: "http://twitter.com/ale_borba"}
     - {name: "github", link: "https://github.com/aleborba"}
+-
+  id: 11
+  name: "Bryan"
+  surname: "Ollivie"
+  company: "BB Tecnologia"
+  title: "Android L: Conheça as novidades e tendências."
+  bio: "Possui formação em Ciência da Computação pelo Centro Universitário do Pará (CESUPA), atuou durante 3 anos no desenvolvimento de web-apps em PHP, Grails e Java. Sócio-fundador da startup 3/4 mobile direcionada para aplicativos moveis em Android e IOS. Atuou em equipes puramente agilistas no desenvolvimento/coordenação de projetos complexos. Atualmente é analista da BB Tecnologia onde faz parte da equipe que está formando o novo polo de desenvolvimento de aplicativos mobile da BB Tecnologia no norte."
+  thumbnailUrl: bryan.jpg
+  rockstar: true
+  ribbon:
+    # - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/+Al%C3%AABorba/about"}
+  social: 
+    # - {name: "google-plus", link: "https://plus.google.com/+Al%C3%AABorba/about"}
+    # - {name: "twitter", link: "http://twitter.com/ale_borba"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/bryan-ollivie/51/a1/920"}

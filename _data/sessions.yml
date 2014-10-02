@@ -99,12 +99,12 @@
   complexity: "avançado"
 -
   id: 015
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Android L: Conheça as novidades e tendências."
+  description: "Nesta apresentação irei demostrar a evolução da plataforma Android até o Android L, que trouxe inúmeras novidades, como a nova maquina virtual ART, o projeto VOLTA, Material; e como tudo isso trouxe uma experiencia unificada entre vários tipos de dispositivos, desde smartphones até a Android TV. Além disso irei falar sobre as principais tendências do mercado mobile."
   subtype: presentation
-  #speakers: [9]
-  #language: pt-br
-  complexity: ""
+  speakers: [11]
+  language: pt-br
+  complexity: "intermediário"
 -
   id: 016
   title: "Um overview sobre as novidades e tudo o que o Google tem para desenvolvedores."
