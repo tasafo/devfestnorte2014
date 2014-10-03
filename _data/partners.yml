@@ -3,7 +3,10 @@
   elements:
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: '220px'}
     - {name: "Sol", description: "Sol Informática", link: "http://www.intersol.com.br/", imageUrl: "logo-sol.png", width: '100px'}
-    - {name: "Pronto Digital", description: "Pronto Digital", link: "http://www.dsgx.com.br", imageUrl: "logo_pronto_digital.png"}
+-
+  group: "Patrocinador Platinum"
+  elements:
+    - {name: "Pronto Digital", description: "Pronto Digital", link: "http://www.prontodigital.com.br/", imageUrl: "logo_pronto_digital.png"}
 - 
   group: "Patrocinador Gold"
   elements:
