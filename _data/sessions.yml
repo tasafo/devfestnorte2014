@@ -54,12 +54,12 @@
   service: true
 -
   id: 009
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Desenvolvimento Orientado a Testes com AngularJS"
+  description: "Criar software é fácil... difícil é mante-lo! É por isso que a prática de Test Driven Development (TDD) vem sendo muito explorada pelas maiores empresas de desenvolvimento de software do mundo. Nesta palestra vou mostrar como criar testes automatizados para o seu código Javascript e Angular.js para aumentar a produtividade e confiança dos desenvolvedores do seu projeto."
   subtype: presentation
-  #speakers: [6]
-  #language: pt-br
-  complexity: ""
+  speakers: [12]
+  language: pt-br
+  complexity: "avançado"
 -
   id: 010
   title: "Animando a UI: entregue uma experiência, não apenas um aplicativo"

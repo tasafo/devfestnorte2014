@@ -160,3 +160,19 @@
     # - {name: "google-plus", link: "https://plus.google.com/+Al%C3%AABorba/about"}
     # - {name: "twitter", link: "http://twitter.com/ale_borba"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/bryan-ollivie/51/a1/920"}
+-
+  id: 12
+  name: "Felipe"
+  surname: "Iketani"
+  company: "Gistia"
+  title: "Desenvolvimento Orientado a Testes com AngularJS"
+  bio: "Apaixonado por alimentação saudável e faixa azul de Jiujitsu (não que signifique alguma coisa), é desenvolvedor de sistema WEB na Gistia.com e usa Ruby on Rails para fazer a mágica acontecer! Membro ativo na comunidade ágil paraense Tá Safo!, tenta disseminar a prática de testes automatizados e TDD aonde que que vá."
+  thumbnailUrl: ike.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Tá Safo", title: "Comunidade Tá Safo", url: "http://tasafo.wordpress.com/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/104454903082510408559/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/114952267062359080616/posts"}
+    - {name: "twitter", link: "https://twitter.com/felipe_ik"}
+    - {name: "github", link: "https://github.com/felipeik"}
