@@ -5,6 +5,7 @@
     - {name: "Sol", description: "Sol Informática", link: "http://www.intersol.com.br/", imageUrl: "logo-sol.png", width: '100px'}
     - {name: "Need Training", description: "Need Training", link: "https://www.facebook.com/NeedTraining2014", imageUrl: "need_training.png", width: '220px'}
     - {name: "DSGX", description: "DSGX", link: "http://www.dsgx.com.br", imageUrl: "dsgx.png"}
+    - {name: "Pronto Digital", description: "Pronto Digital", link: "http://www.dsgx.com.br", imageUrl: "logo_pronto_digital.png"}
 - 
   group: "Apoio"
   elements: 
