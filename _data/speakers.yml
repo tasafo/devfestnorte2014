@@ -149,13 +149,13 @@
   id: 11
   name: "Bryan"
   surname: "Ollivie"
-  company: "BB Tecnologia"
+  company: "Tá Safo"
   title: "Android L: Conheça as novidades e tendências."
   bio: "Possui formação em Ciência da Computação pelo Centro Universitário do Pará (CESUPA), atuou durante 3 anos no desenvolvimento de web-apps em PHP, Grails e Java. Sócio-fundador da startup 3/4 mobile direcionada para aplicativos moveis em Android e IOS. Atuou em equipes puramente agilistas no desenvolvimento/coordenação de projetos complexos. Atualmente é analista da BB Tecnologia onde faz parte da equipe que está formando o novo polo de desenvolvimento de aplicativos mobile da BB Tecnologia no norte."
   thumbnailUrl: bryan.jpg
   rockstar: true
   ribbon:
-    # - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/+Al%C3%AABorba/about"}
+    - {abbr: "Tá Safo", title: "Comunidade Tá Safo", url: "http://tasafo.wordpress.com/"}
   social: 
     # - {name: "google-plus", link: "https://plus.google.com/+Al%C3%AABorba/about"}
     # - {name: "twitter", link: "http://twitter.com/ale_borba"}
