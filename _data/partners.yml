@@ -3,6 +3,7 @@
   elements:
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: '220px'}
     - {name: "Sol", description: "Sol Informática", link: "http://www.intersol.com.br/", imageUrl: "logo-sol.png", width: '100px'}
+    - {name: "Inteceleri Soluções Ltda", description: "Inteceleri Soluções Ltda", link: "", imageUrl: "inter_3.png", width: '100px'}
 -
   group: "Patrocinador Platinum"
   elements:
