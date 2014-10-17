@@ -1,0 +1,226 @@
+# Building (não mexa a menos que saiba o que está fazendo)
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Parâmetros do site
+title: "DevFest Norte 2014"
+email: "devfestnorte.org@gmail.com"
+description: "DevFest Norte é o maior evento de tecnologias Google na região norte do Brasil."
+baseurl: ""
+url: "http://norte.devfest.com.br"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-54405211-1"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+
+# Informações dos organizadores
+organizerName: "GDG Belém"
+organizerAlternateName: "Google Developer Group Belém"
+organizerDescription: "Comunidade aberta e voluntária que estuda, cria e dissemina tecnologias e desenvolvimento ágil em Belém do Pará."
+organizerEmail: "comunidadetasafo@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://norte.devfest.com.br/"
+
+# Metadados para a página
+metaKeywords: "evento, gdg, devfest, norte, amazonia, brasil, google, programacao, android, chrome, desenvolvimento, trilha, mobile, web"
+twitterAccount: "@tasafo"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documentos-chave
+c4pUrl: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
+# Navegação
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/logistics/", text: "Logística"}
+bottomNavigationLinks:
+ - {link: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Submeta sua palestra"}
+rightNavigationButtons:
+ - {link: "http://www.eventick.com.br/devfest-norte-2014", text: "Inscreva-se!"}
+
+# Bloco "Hero"
+heroTitle: "GDG DevFest <typeout> 2014"
+eventDate: "1º de novembro de 2014" 
+typeoutTextValues: '"", "NORTE", "Belém", "Manaus", "São Luís"'
+typeoutFallback: "Temporada"
+heroButtons:
+ - {url: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Seja um palestrante"}
+
+# Bloco "Sobre"
+aboutTitle: "Sobre o DevFest Norte"
+aboutBlock:
+ - {title: "Conferência", image: "conference.jpg", text: "O maior evento de tecnologias Google no norte do Brasil, conduzido por pessoas engajadas das comunidades GDG de Belém, Manaus e São Luís!  Temas interessantes, ótimos palestrantes e muita diversão!" }
+ - {title: "Codelab", image: "hackathon.jpg", text: "Quer acumular experiência e resolver problemas do mundo real passando um dia trocando ideias e programando com pessoas que fazem a diferença?  Conheça e aprenda mais com Android Wear com práticas mão-na-massa." }
+ - {title: "Networking", image: "workshop.jpg", text: "Amplie sua rede de networking trocando experiências e muita informação com grandes nomes das comunidades regionais de tecnologia, tudo isso num ambiente leve energizado e descontraído." }
+
+# Bloco "Estatísticas"
+statisticBlock:
+ - {count: "200", specialCharacter: "+", info: "participantes", detail: "de todos os lugares"}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "de conteúdo sobre tecnologias Google"}
+ - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "especialistas regionais"}
+ - {count: "2", specialCharacter: "", info: "trilhas simultâneas", detail: "mais espaço para networking"}
+
+# Bloco "Últimas Notícias"
+latestNewsTitle: "Ultimas notícias"
+
+# Bloco "Palestrantes Rockstar"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Palestrantes rockstar"
+rockstarSpeakersButtonText: "Veja todos os palestrantes"
+
+# Bloco "Localização"
+locationBlockTitle: "Local"
+eventLocationName: "Computer Hall"
+eventLocationLink: "http://www.computerhall.com.br/hall/"
+eventStreetAddress: "Av. Antônio Barreto nº 1176 (entre 9 de Janeiro e Alcindo Cacela), Umarizal"
+eventAddressLocality: "Belém"
+eventAddressLocalityRegion: "Pará"
+eventPostalCode: "66055-050"
+eventAddressCountry: "Brasil"
+eventStartTime: "2014-11-01T08:30"
+eventDoorTime: "09:00"
+eventEndTime: "2014-11-01T18:00"
+eventPlaceCoordinates: "-1.4430633,-48.4779501"
+mapCenterCoordinates: "-1.4430633,-48.4779501"
+mapMobileCenterCoordinates: "-1.4430633,-48.4779501"
+
+# Bloco "Venue"
+venueBlockTitle: "Local"
+venueTitle: "Computer Hall"
+venueFeatures: ["Auditório duplo com capacidade total para 580 lugares", "6 salas de eventos", "Acesso facilitado no centro da cidade"]
+
+# Bloco "Tweets"
+tweetsFeedTitle: "O que está rolando?"
+twitterHashTag: "devfestnorte"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+
+# Bloco "Parceiros"
+organizersTitle: "Organizadores"
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Seja um patrocinador"
+
+# Bloco "Subscreva-se"
+subscribeTitle: "Subscreva-se para novidades"
+subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registre-se até a data do evento. Vagas limitadas. Fique ligado!"
+
+# Bloco "Tíquetes"
+btnInscrevase: "Inscreva-se"
+ticketsTitle: "Tabela de preços"
+ticketsInfo: "Inscrições dão acesso a todas as trilhas de palestras, material do evento e coffee-breaks. Almoço e despesas com happy-hour não inclusas."
+ticketsOffers:
+ -
+  name: "Agoniado"
+  price: "R$ 35,00"
+  priceCurrency: "BRL"
+  ticketsNumber: "100"
+  featured: true
+  ribbon: "-50%"
+  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
+  buyButtonText: "Garanta agora!"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-01T10:00"
+  validThrough: "2014-09-14T23:59"
+  disabled: true
+ -
+  name: "Só na manha"
+  price: "R$ 50,00"
+  priceCurrency: "BRL"
+  ticketsNumber: "50"
+  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
+  buyButtonText: "Garanta agora!"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-09-15T00:00"
+  validThrough: "2014-10-12T23:59"
+  disabled: true
+ -
+  name: "Atrasildo"
+  price: "R$ 60,00"
+  priceCurrency: "BRL"
+  ticketsNumber: "50"
+  buyButtonLink: "http://www.eventick.com.br/devfest-norte-2014"
+  buyButtonText: "Garanta o seu!"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-10-16T00:00"
+  validThrough: "2014-11-01T12:00"
+  disabled: false
+
+# Rodapé
+socialLinks:
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   # - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contatos"
+  links:
+   - {link: "mailto:comunidadetasafo@gmail.com", text: "Escreva-nos"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Código de Conduta"}
+
+# Blog
+blogTitle: "Últimas notícias"
+blogCommentsEnabled: true
+discusShortName: "devfestnorte"
+
+# Bloco "Lista de Palestrantes"
+showSessions: true
+thumbnailsFolder: /img/speakers/
+
+# Bloco "Equipe"
+teamBlockTitle: "Quem somos"
+aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. GDGs podem assumir muitas formas - de apenas algumas pessoas que se juntam para assistir alguns vídeos, para grandes encontros com demonstrações, palestras técnicas, hackathons e conferências."
+
+# Logistics Find Way Block
+findWayTitle: "Encontre um caminho"
+logisticsMapCenterCoordinates: "-2.1167705, -48.2805993"
+logisticsMapMobileCenterCoordinates: "-2.1167705, -48.2805993"
+
+# Logistics Direction Details Block
+directionDetailsTitle: "Conheça Belém do Pará"
+directionDetailsCards:
+ - {title: "Aeroporto", information: 'O aeroporto é bem próximo. É facilmente acessível por carro, ônibus ou taxi. Mais informações estarão disponíveis em breve.'}
+ - {title: "Transporte Público", information: 'O transporte público é bem acessível e disponível em vários locais da cidade.'}
+ - {title: "Hotéis", information: 'A cidade possui ótimos hotéis e pousadas. Mais informações em breve.'}
+directionDetailsWideCards: 
+ # -
+ #  title: "Questions?"
+ #  subCards:
+ #   -
+ #    title: "Hotels"
+ #    links:
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+ #   - 
+ #    title: "Registration"
+ #    links:
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+ #   -
+ #    title: "Attendance Details"
+ #    links:
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+ #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+# Schedule Block
+scheduleWarning: "Observação: a programação ainda pode sofrer alterações sem aviso prévio."
