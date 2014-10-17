@@ -18,7 +18,7 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 organizerName: "GDG Belém"
 organizerAlternateName: "Google Developer Group Belém"
 organizerDescription: "Comunidade aberta e voluntária que estuda, cria e dissemina tecnologias e desenvolvimento ágil em Belém do Pará."
-organizerEmail: "comunidadetasafo@gmail.com"
+organizerEmail: "devfestnorte.org@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://norte.devfest.com.br/"
 
@@ -167,7 +167,7 @@ footerBlocks:
  -
   title: "Contatos"
   links:
-   - {link: "mailto:comunidadetasafo@gmail.com", text: "Escreva-nos"}
+   - {link: "mailto:devfestnorte.org@gmail.com", text: "Escreva-nos"}
  -
   title: "FAQ"
   links:
