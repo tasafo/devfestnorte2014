@@ -48,7 +48,7 @@ rightNavigationButtons:
 # Bloco "Hero"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "1º de novembro de 2014" 
-typeoutTextValues: '"", "NORTE", "Belém", "Manaus", "São Luís"'
+typeoutTextValues: '"", "NORTE", "Belém"'
 typeoutFallback: "Temporada"
 heroButtons:
  - {url: "https://docs.google.com/forms/d/1PucWMWW3v6eGz9RQW0_q13cob45yOj6pgQ5uyq0EzYs/viewform?c=0&w=1&usp=mail_form_link", text: "Seja um palestrante"}
