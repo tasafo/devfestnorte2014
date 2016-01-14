@@ -1,6 +1,6 @@
 # Site DevFest Norte 2014, usando GDGx Zeppelin template
 
-Este é o repositório com o conteúdo para o site oficial do [DevFest Norte 2014](http://norte.devfest.com.br).
+Este é o repositório com o conteúdo para o site oficial do [DevFest Norte 2014](http://devfestnorte2014.tasafo.org).
 
 # Onde estão os arquivos?  Por que não consigo ver nada?
 

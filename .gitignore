@@ -1,8 +1,10 @@
 ### Jekyll ###
 _site/
 
-
 ### Sass ###
 .sass-cache
 
+### Others ###
 .DS_Store
+.ruby-version
+.ruby-gemset
