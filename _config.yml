@@ -8,8 +8,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "DevFest Norte 2015"
 email: "devfestnorte.org@gmail.com"
 description: "DevFest Norte é o maior evento de tecnologias Google na região norte do Brasil."
-baseurl: ""
-url: "http://norte.devfest.com.br"
+baseurl: "/devfestnorte2104"
+url: "http://devfestnorte2104.tasafo.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-54405211-1"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -47,7 +47,7 @@ rightNavigationButtons:
 
 # Bloco "Hero"
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "1º de novembro de 2014" 
+eventDate: "1º de novembro de 2014"
 typeoutTextValues: '"", "NORTE", "Belém"'
 typeoutFallback: "Temporada"
 heroButtons:
@@ -197,7 +197,7 @@ directionDetailsCards:
  - {title: "Aeroporto", information: 'O aeroporto é bem próximo. É facilmente acessível por carro, ônibus ou taxi. Mais informações estarão disponíveis em breve.'}
  - {title: "Transporte Público", information: 'O transporte público é bem acessível e disponível em vários locais da cidade.'}
  - {title: "Hotéis", information: 'A cidade possui ótimos hotéis e pousadas. Mais informações em breve.'}
-directionDetailsWideCards: 
+directionDetailsWideCards:
  # -
  #  title: "Questions?"
  #  subCards:
@@ -208,7 +208,7 @@ directionDetailsWideCards:
  #     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
  #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
  #     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
- #   - 
+ #   -
  #    title: "Registration"
  #    links:
  #     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
